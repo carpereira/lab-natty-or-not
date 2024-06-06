@@ -20,19 +20,56 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aes ;)
+Salve a Terra
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Levantamento de soluções que freiem o aquecimento global
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei diretamente à ferramenta.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O aquecimento global é um desafio significativo que requer uma abordagem multifacetada para ser abordado de maneira eficaz. Abaixo estão algumas soluções importantes para mitigar os efeitos do aquecimento global:
+
+1. Redução das Emissões de Gases de Efeito Estufa
+Energias Renováveis
+Energia Solar e Eólica: Investir em fontes de energia renováveis, como a solar e a eólica, que não emitem gases de efeito estufa durante a produção de eletricidade .
+Energia Hidrelétrica e Geotérmica: Expandir o uso de energia hidrelétrica e geotérmica, que também são fontes de energia limpa.
+Eficiência Energética
+Edificações e Indústrias: Implementar tecnologias e práticas que aumentem a eficiência energética em edifícios e indústrias, reduzindo o consumo de energia e as emissões associadas .
+2. Adoção de Tecnologias de Captura de Carbono
+Captura e Armazenamento de Carbono (CCS): Desenvolver e implementar tecnologias que capturem CO₂ da atmosfera e o armazenem de forma segura no subsolo .
+3. Mudança de Hábitos de Consumo
+Dieta Alimentar
+Redução do Consumo de Carne: Adotar uma dieta com menor consumo de carne e produtos lácteos, uma vez que a pecuária é uma grande fonte de emissões de metano .
+Alimentos Locais e Sazonais: Preferir alimentos locais e sazonais para reduzir as emissões associadas ao transporte de alimentos.
+Transporte
+Veículos Elétricos: Promover o uso de veículos elétricos e outras formas de transporte limpo, como bicicletas e transporte público eficiente .
+4. Reflorestamento e Conservação das Florestas
+Reflorestamento: Plantar árvores e restaurar florestas degradadas para absorver CO₂ da atmosfera.
+Conservação: Proteger as florestas existentes, que atuam como importantes sumidouros de carbono, evitando o desmatamento .
+5. Políticas e Acordos Internacionais
+Acordo de Paris: Implementar e fortalecer os compromissos assumidos no Acordo de Paris, onde os países se comprometem a reduzir suas emissões de gases de efeito estufa.
+Regulações Nacionais e Locais: Estabelecer políticas nacionais e locais que incentivem práticas sustentáveis e limitem as emissões de carbono.
+6. Educação e Conscientização
+Campanhas de Conscientização: Promover campanhas de conscientização sobre a importância de reduzir as emissões de carbono e adotar práticas sustentáveis.
+Educação Ambiental: Incorporar a educação ambiental nos currículos escolares para sensibilizar as gerações futuras sobre a importância da preservação ambiental.
+7. Inovação e Pesquisa
+Desenvolvimento de Novas Tecnologias: Investir em pesquisa e desenvolvimento de novas tecnologias que possam mitigar os efeitos do aquecimento global.
+Soluções de Resiliência Climática: Desenvolver soluções que aumentem a resiliência das comunidades e ecossistemas às mudanças climáticas .
+Referências
+IEA - Renewable Energy
+National Renewable Energy Laboratory - Benefits of Renewable Energy Use
+Energy.gov - Energy Efficiency
+Global CCS Institute - What is CCS?
+FAO - Livestock and Climate Change
+IEA - Transport
+WWF - Forests
+IPCC - Special Report on Climate Change and Land
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
